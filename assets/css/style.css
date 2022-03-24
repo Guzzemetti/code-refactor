@@ -60,12 +60,13 @@ p {
     background-size: cover;
     background-position: center;
 }
-
-.float-left {
+/* Added directly to the SEO and SMM image sections */
+/* .float-left {
     float: left;
     margin-right: 25px;
-}
+} */
 
+/* Added directly to the .online-reputation-management image section */
 /* .float-right {
     float: right;
     margin-left: 25px;
@@ -125,6 +126,8 @@ p {
 .search-engine-optimization img,
 .social-media-marketing img {
     max-height: 200px;
+    float: left;
+    margin-right: 25px;
 }
 
 .online-reputation-management img {
