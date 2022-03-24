@@ -66,10 +66,10 @@ p {
     margin-right: 25px;
 }
 
-.float-right {
+/* .float-right {
     float: right;
     margin-left: 25px;
-}
+} */
 
 .content {
     width: 75%;
@@ -123,9 +123,14 @@ p {
 }
 /* Condensed these sections into one */
 .search-engine-optimization img,
-.online-reputation-management img,
 .social-media-marketing img {
     max-height: 200px;
+}
+
+.online-reputation-management img {
+    max-height: 200px;
+    float: right;
+    margin-left: 25px;
 }
 
 /* Condensed these sections into one */
