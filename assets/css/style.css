@@ -115,6 +115,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Changed the below sections to match changes to use ids in the index */
 /* Condensed these sections into one */
 #search-engine-optimization,
 #online-reputation-management,
